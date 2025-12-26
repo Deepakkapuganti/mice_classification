@@ -30,7 +30,7 @@ Each mouse contributes **15 measurements per protein**, providing a detailed mol
 
 ---
 
-## 🐭 Class Distribution
+##  Class Distribution
 
 | Class Label | Description | Number of Mice |
 |------------|------------|----------------|
