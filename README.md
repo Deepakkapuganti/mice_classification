@@ -1,13 +1,13 @@
-# 🧬 Classification of Mice Based on Protein Expression Levels
+# Classification of Mice Based on Protein Expression Levels
 
-## 📌 Project Overview
+##  Project Overview
 Understanding the molecular mechanisms underlying learning and memory is a major challenge in neuroscience, especially in the context of **Down syndrome (Trisomy 21)**. This project applies **machine learning techniques** to classify mice based on **protein expression levels** measured in the cerebral cortex.
 
 The dataset contains protein expression profiles from **control and trisomic mice**, subjected to **context fear conditioning** and treated with either **saline or memantine**. The project aims to identify biological markers associated with learning, genotype differences, and therapeutic intervention.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Develop a machine learning model to classify mice into **8 distinct classes** based on genotype, behavior, and treatment.
 - Identify **key discriminant proteins** responsible for classification.
 - Analyze the impact of **genotype (control vs. trisomic)**, **behavior (stimulated vs. not stimulated)**, and **treatment (saline vs. memantine)** on protein expression.
@@ -15,7 +15,7 @@ The dataset contains protein expression profiles from **control and trisomic mic
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 - **Domain:** Biology / Neuroscience / Bioinformatics  
 - **Type:** Multivariate  
 - **Associated Tasks:** Classification, Clustering  
@@ -45,7 +45,7 @@ Each mouse contributes **15 measurements per protein**, providing a detailed mol
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 1. **Data Preprocessing**
    - Handling missing values
    - Normalization and scaling
@@ -72,7 +72,7 @@ Each mouse contributes **15 measurements per protein**, providing a detailed mol
 
 ---
 
-## 📊 Results & Observations
+## Results & Observations
 - Achieved strong classification performance across all 8 classes.
 - Identified **key proteins** associated with learning and memory processes.
 - Clear differences observed in protein expression between:
@@ -83,7 +83,7 @@ Each mouse contributes **15 measurements per protein**, providing a detailed mol
 
 ---
 
-## 🧬 Biological Significance
+##  Biological Significance
 - Provides insight into molecular mechanisms of **associative learning**.
 - Highlights protein dysregulation related to **Down syndrome**.
 - Demonstrates the effectiveness of **machine learning in biological data analysis**.
