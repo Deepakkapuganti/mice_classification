@@ -91,7 +91,7 @@ Each mouse contributes **15 measurements per protein**, providing a detailed mol
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **Programming Language:** Python  
 - **Libraries:**  
   - NumPy  
